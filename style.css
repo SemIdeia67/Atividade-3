@@ -1,0 +1,51 @@
+.quadrado{
+    width: 100px;
+    height: 100px;
+    border: 10px;
+    background-color: red;
+    margin-bottom: 30px;
+}
+
+.retangulo{
+    width: 200px;
+    height: 100px;
+    border: 10px;
+    background-color: green;
+    margin-bottom: 30px;
+}
+
+.retanguloroxo{
+    width: 100px;
+    height: 200px;
+    border: 10px;
+    background-color: purple;
+    margin-bottom: 30px;
+}
+
+.retangulo3{
+     width: 100px;
+    height: 200px;
+    border: 10px;
+    background-color: black;
+
+}
+
+.quadrado2{
+    width: 50px;
+    height: 50px;
+    border: 10px;
+    background-color: red;
+}
+
+.buttom1{
+    padding: 15px;
+}
+
+.buttom2{
+    padding: 30px;
+}
+
+.buttom3{
+    padding: 60px;
+}
+
